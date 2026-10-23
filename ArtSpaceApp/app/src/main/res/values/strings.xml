@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="art_1_title">Dusk Over the Hills</string>
+    <string name="art_1_artist">A. Morozova</string>
+    <string name="art_2_title">Composition in Red</string>
+    <string name="art_2_artist">I. Kuznetsov</string>
+    <string name="art_3_title">Deep Water</string>
+    <string name="art_3_artist">E. Volkova</string>
+    <string name="art_4_title">Night of a Thousand Stars</string>
+    <string name="art_4_artist">D. Sokolov</string>
+    <string name="art_5_title">Rising Rings</string>
+    <string name="art_5_artist">M. Petrova</string>
+
+    <string name="artwork_description">Artwork: %1$s</string>
+    <string name="artwork_info">%1$s (%2$s)</string>
+</resources>
